@@ -14,4 +14,4 @@ make_name_french: name = 'le fameux hamburger'
 salad_not_frenchfies: pairings = ['salad', 'coleslaw']
 add_cheese: calories = 600
 well_done: cook_time = 20
-use_gluten_free_ingredients: is_gluten_free = trure
+use_gluten_free_ingredients: is_gluten_free = true
