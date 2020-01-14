@@ -1,6 +1,6 @@
 Class that might exist in a restaurant
 
-Class: Employee
+Class: Employee 
 
 Attributes:
 job_description (string)
