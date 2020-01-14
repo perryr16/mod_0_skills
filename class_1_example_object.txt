@@ -1,6 +1,6 @@
 
 
-Object: Chef
+Object: Chef 
 
 Attributes:
 job_description: 'Dish washer'
