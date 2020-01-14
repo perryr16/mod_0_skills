@@ -9,7 +9,7 @@ calories (integer)
 cook_time (integer)
 is_gluten_free (boolean)
 
-Methods:
+Methods: 
 make_name_french (modifies name)
 salad_not_frenchfies (adds 'salad' and removes 'french fries' from pairings array)
 add_cheese (adds 100 to calories)
